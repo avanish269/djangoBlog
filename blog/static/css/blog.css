@@ -19,6 +19,13 @@ body{
   text-decoration: none;
 }
 
+.glyphicon.glyphicon-plus{
+    font-size: 35px;
+    position: absolute;
+    top: 80px;
+    right: 5px;
+}
+
 .content{
   margin-left: 40px;
 }
