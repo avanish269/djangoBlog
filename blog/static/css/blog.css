@@ -23,7 +23,14 @@ body{
     font-size: 35px;
     position: absolute;
     top: 80px;
-    right: 5px;
+    right: 55px;
+}
+
+.glyphicon.glyphicon-edit{
+    font-size: 35px;
+    position: absolute;
+    top: 80px;
+    right: 10px;
 }
 
 .content{

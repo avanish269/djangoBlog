@@ -23,6 +23,13 @@ body{
     font-size: 35px;
     position: absolute;
     top: 80px;
+    right: 45px;
+}
+
+.glyphicon.glyphicon-edit{
+    font-size: 35px;
+    position: absolute;
+    top: 80px;
     right: 5px;
 }
 
