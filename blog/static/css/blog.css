@@ -20,14 +20,21 @@ body{
 }
 
 .glyphicon.glyphicon-plus{
-    font-size: 35px;
+    font-size: 25px;
+    position: absolute;
+    top: 80px;
+    right: 100px;
+}
+
+.glyphicon.glyphicon-edit{
+    font-size: 25px;
     position: absolute;
     top: 80px;
     right: 55px;
 }
 
-.glyphicon.glyphicon-edit{
-    font-size: 35px;
+.glyphicon.glyphicon-lock{
+    font-size: 25px;
     position: absolute;
     top: 80px;
     right: 10px;
