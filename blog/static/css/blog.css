@@ -7,6 +7,10 @@ body{
   padding-left: 15px;
 }
 
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
 .page-header{
   background-color: #C25100;
   margin-top: 0;
@@ -33,7 +37,14 @@ body{
     right: 55px;
 }
 
-.glyphicon.glyphicon-lock{
+.glyphicon.glyphicon-log-in{
+    font-size: 25px;
+    position: absolute;
+    top: 80px;
+    right: 10px;
+}
+
+.glyphicon.glyphicon-log-out{
     font-size: 25px;
     position: absolute;
     top: 80px;
