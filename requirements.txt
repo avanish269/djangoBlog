@@ -1,1 +1,5 @@
 Django~=2.1.5
+python~=3.7.0
+html
+css
+bootstrap
